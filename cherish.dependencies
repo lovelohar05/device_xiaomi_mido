@@ -5,6 +5,6 @@
  },
  {
    "repository": "vendor_xiaomi_mido",
-   "target_path": "vendor/xiaomi/mido"
+   "target_path": "vendor/xiaomi"
  }
 ]
