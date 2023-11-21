@@ -47,7 +47,7 @@ TARGET_ENABLE_BLUR := true
 WITH_GMS := true
 
 # Maintainer Stuff
-PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
+PRODUCT_SYSTEM_PROPERTIES += \
     ro.cherish.maintainer=Love Lohar
 CHERISH_BUILD_TYPE := UNOFFICIAL
 
